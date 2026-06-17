@@ -1,0 +1,6 @@
+customer_id,name,email,join_date
+1,Иван Иванов,ivan@example.com,2023-01-15
+2,Мария Петрова,maria@example.com,2023-02-20
+3,Алексей Сидоров,alex@example.com,2023-03-10
+4,Елена Кузнецова,elena@example.com,2023-04-05
+5,Дмитрий Смирнов,dmitry@example.com,2023-05-22
